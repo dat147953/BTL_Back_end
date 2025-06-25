@@ -1,2 +1,2 @@
 # BTL_Back_end
-Ứng Dụng "DNUStudyGroup"
+Ứng Dụng "DNUStudyGroups"
